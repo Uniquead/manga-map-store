@@ -1,0 +1,1 @@
+import"./globals.css";import type{Metadata}from"next";export const metadata:Metadata={title:"MangaMap",description:"Global manga and light novel shop directory"};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><head><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/></head><body>{children}</body></html>}
