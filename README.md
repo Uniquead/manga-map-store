@@ -24,17 +24,6 @@
 | Styling | Tailwind CSS |
 | Mapping | Leaflet + OpenStreetMap |
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000).
-
-## Project map
-
 ```text
 app/
 ├── page.tsx          # Welcome page and destination shortcuts
